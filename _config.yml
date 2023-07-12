@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/nightheron1/nightheron1.github.io.git
-  main: master
+  branch: main
